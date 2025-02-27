@@ -1,2 +1,1 @@
-# izemod
-This is the Source Code of my iZeMod Modded-Client for Minecraft
+This repo is deprecated and no longer in use. Development continues here: https://github.com/iZeStudios/iZeMod
